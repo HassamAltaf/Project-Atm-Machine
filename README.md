@@ -1,4 +1,3 @@
 # Project-Atm-Machine
- Atm Machine:
- This is npx command: 
+ This is atm machine npx command: 
  npx sab-atm-machine
