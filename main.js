@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 console.log("Welcome to Bank Al Habib");
 const answers = await inquirer.prompt([
